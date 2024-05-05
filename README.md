@@ -17,7 +17,5 @@ int main()
     string password;
     getline(cin, password);
     cout << "*АККАУНТ СОЗДАН*" << endl;
-    cout << "Имя: " << a << endl;
-    cout << "Фамилия: " << b << endl;
     return 0;
 }
